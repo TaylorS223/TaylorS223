@@ -16,7 +16,7 @@
 ### 🚀 Sobre mí
 
 - 🎓 Estudiante de **Ingeniería de Software**.
-- 🛡️ Fiel defensor de la **integridad de los datos**: "La lógica no se negocia por conveniencia visual".
+- 🛡️ Colaborativo y dispuesto a adaptarse a cambios.
 - 🏗️ Enfocado en arquitecturas escalables y limpias.
 
 ---
@@ -33,9 +33,8 @@
 
 ### 📂 Proyectos Destacados
 
-* **[TruequeWeb](https://github.com/tu-usuario/truequeweb):** Marketplace estudiantil con React y Supabase.
-* **[CityAlerta](https://github.com/tu-usuario/cityalerta):** App de seguridad ciudadana en Kotlin (Jetpack Compose).
-* **[Rediseño ULEAM](https://github.com/tu-usuario/uleam-redesign):** Propuesta moderna usando Next.js y TypeScript.
+* **[CityAlerta](https://github.com/L50E02O/CityAlerta):** App de seguridad ciudadana en Kotlin (Jetpack Compose).
+* **[Rediseño ULEAM]((https://github.com/DavAVP/ULEAM)):** Propuesta moderna usando Next.js y TypeScript.
 
 ---
 
