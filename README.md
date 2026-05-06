@@ -34,6 +34,6 @@
 ### 📂 Proyectos Destacados
 
 * **[CityAlerta](https://github.com/L50E02O/CityAlerta):** App de seguridad ciudadana en Kotlin (Jetpack Compose).
-* **[Rediseño ULEAM]((https://github.com/DavAVP/ULEAM)):** Propuesta moderna usando Next.js y TypeScript.
+* **[Rediseño ULEAM](https://github.com/DavAVP/ULEAM):** Propuesta moderna usando Next.js y TypeScript.
 
 ---
