@@ -1,45 +1,47 @@
-# ¡Hola! Soy Steve 👋
+# <p align="center">Hey, I'm Taylor! 👨‍💻</p>
 
-Soy un **Estudiante de Ingeniería de Software** enfocado en el desarrollo de aplicaciones modernas, escalables y con un fuerte compromiso por la integridad de los datos. Me apasiona resolver problemas complejos mediante el uso de tecnologías nuevas en entornos web y móviles.
+<p align="center">
+  <strong>Software Engineering Student | Mobile & Web Developer</strong><br>
+  Especializado en crear soluciones robustas con un enfoque obsesivo en la integridad de los datos.
+</p>
 
----
-
-### 2. 🚀 Tecnologías & Herramientas
-
-- **Frontend:** React, Next.js, Astro, Tailwind CSS, TypeScript.
-- **Mobile:** Android Development con Kotlin y Jetpack Compose.
-- **Backend & DB:** Supabase, PostgreSQL, Docker, Google Cloud Run.
-- **DevOps:** GitHub Actions, Vercel, CI/CD.
-- **Entorno:** macOS y Windows 💻.
-
----
-
-### 3. 📂 Proyectos Destacados
-
-#### [TruequeWeb](https://github.com/tu-usuario/truequeweb)
-**Marketplace Estudiantil** desarrollado con **React y Supabase**. 
-- Implementé una arquitectura modular para facilitar el intercambio de productos entre estudiantes.
-- Enfoque en seguridad y manejo eficiente de estados.
-
-#### [CityAlerta](https://github.com/tu-usuario/cityalerta)
-**Aplicación Móvil** de seguridad ciudadana construida con **Kotlin y Jetpack Compose**.
-- Gestión de reportes en tiempo real y optimización de rendimiento móvil.
-
-#### [Rediseño ULEAM](https://github.com/tu-usuario/uleam-redesign)
-Propuesta de modernización de la experiencia digital universitaria usando **Next.js 14** y **Tailwind CSS**.
-- Implementación de rutas dinámicas y diseño altamente responsivo.
+<p align="center">
+  <a href="https://taylorcv.vercel.app">🌐 Portfolio</a> • 
+  <a href="mailto:tayloralava.dev@gmail.com">📧 Email</a> • 
+  <a href="https://linkedin.com/in/tu-usuario">🔗 LinkedIn</a>
+</p>
 
 ---
 
-### 4. 📊 Estadísticas de GitHub
+### 🚀 Sobre mí
 
-![Stats de Steve](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight)
+- 🎓 Estudiante de **Ingeniería de Software**.
+- 🛡️ Fiel defensor de la **integridad de los datos**: "La lógica no se negocia por conveniencia visual".
+- 🏗️ Enfocado en arquitecturas escalables y limpias.
+
+---
+
+### 🛠️ Stack Tecnológico
+
+| Área | Tecnologías |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Mobile** | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+| **Backend** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
 ---
 
-### 5. 📫 Contacto
-- **LinkedIn:** [tu-usuario](https://linkedin.com/in/tu-usuario)
-- **Portfolio:** [Hecho con Astro y Tailwind]
+### 📂 Proyectos Destacados
+
+* **[TruequeWeb](https://github.com/tu-usuario/truequeweb):** Marketplace estudiantil con React y Supabase.
+* **[CityAlerta](https://github.com/tu-usuario/cityalerta):** App de seguridad ciudadana en Kotlin (Jetpack Compose).
+* **[Rediseño ULEAM](https://github.com/tu-usuario/uleam-redesign):** Propuesta moderna usando Next.js y TypeScript.
 
 ---
+
+### 📊 Actividad en GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavAVP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavAVP&layout=compact&theme=tokyonight" />
+</p>
